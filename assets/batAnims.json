@@ -1,0 +1,68 @@
+{"frames": {
+
+"bat1.png":
+{
+	"frame": {"x":2,"y":42,"w":40,"h":13},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":8,"w":40,"h":13},
+	"sourceSize": {"w":40,"h":25}
+},
+"bat2.png":
+{
+	"frame": {"x":48,"y":25,"w":38,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":6,"w":38,"h":15},
+	"sourceSize": {"w":42,"h":25}
+},
+"bat3.png":
+{
+	"frame": {"x":2,"y":23,"w":44,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":44,"h":16},
+	"sourceSize": {"w":50,"h":24}
+},
+"bat4.png":
+{
+	"frame": {"x":88,"y":27,"w":31,"h":25},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":25},
+	"sourceSize": {"w":35,"h":25}
+},
+"bat5.png":
+{
+	"frame": {"x":48,"y":2,"w":38,"h":21},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":38,"h":21},
+	"sourceSize": {"w":40,"h":25}
+},
+"bat6.png":
+{
+	"frame": {"x":2,"y":2,"w":44,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":5,"w":44,"h":19},
+	"sourceSize": {"w":50,"h":25}
+},
+"bat7.png":
+{
+	"frame": {"x":88,"y":2,"w":34,"h":23},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":34,"h":23},
+	"sourceSize": {"w":36,"h":25}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "batAnims.png",
+	"format": "RGBA8888",
+	"size": {"w":124,"h":57},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:48f97f54726810b4d275fa015a8eb78f:aa81c42fde146284775e9ee0f9cbfdc1:41968c6a31fd5800118b9ee4eaffed55$"
+}
+}

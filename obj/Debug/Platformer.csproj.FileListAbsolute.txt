@@ -1,0 +1,5 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\Platformer\Platformer\obj\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\Platformer\Platformer\bin\Platformer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\Platformer\Platformer\bin\Platformer.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\Platformer\Platformer\obj\Debug\Platformer.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\Platformer\Platformer\obj\Debug\Platformer.pdb
